@@ -1,0 +1,16 @@
+# Compiled binaries
+bin/
+*.exe
+*.test
+
+# Test and coverage output
+coverage.out
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
